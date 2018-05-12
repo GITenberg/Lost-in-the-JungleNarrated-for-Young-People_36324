@@ -1,0 +1,33 @@
+_repo: Lost-in-the-JungleNarrated-for-Young-People_36324
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36324-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Du Chaillu, Paul B. (Paul Belloni)
+    aliases:
+    - Chaillu, P. B. du (Paul Belloni)
+    - Belloni du Chaillu, Paul
+    - Chaillu, Paul B. du (Paul Belloni)
+    - Chaillu, Paul Du
+    birthdate: 1835
+    deathdate: 1903
+    gutenberg_agent_id: '25508'
+    url: http://www.gutenberg.org/2009/agents/25508
+    wikipedia: http://en.wikipedia.org/wiki/Paul_du_Chaillu
+description: ''
+gutenberg_issued: '2011-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36324'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Africa, West -- Description and travel'
+- !lcsh 'Africa, West -- Description and travel -- Juvenile literature'
+title: Lost in the Jungle; Narrated for Young People
+url: http://www.gutenberg.org/ebooks/36324
